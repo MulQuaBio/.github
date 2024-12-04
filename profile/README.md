@@ -1,12 +1,7 @@
-## Hi there 👋
+# 👋 Welcome to the Multilingual Quantitative Biologist Organization!
 
-<!--
+There are several repositiories here for different components of this project, from the core materials (the source of the [online book](https://mulquabio.github.io/MQB/intro.html)), to assessment tools (mostly experimental at present) and solutions.
 
-**Here are some ideas to get you started:**
+If in doubt about where to start, or which one to contribute to, in most likelihood you are looking for the main [MQB book repo](https://mulquabio.github.io/MQB/intro.html). 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You may also want to take a peek at this org's [Discussions](https://github.com/orgs/MulQuaBio/discussions).
