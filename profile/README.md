@@ -1,7 +1,18 @@
-# 👋 Welcome to the Multilingual Quantitative Biologist Organization!
+# The Multilingual Quantitative Biologist (MQB)
 
-There are several repositiories here for different components of this project, from the core materials (the source of the [online book](https://mulquabio.github.io/MQB/intro.html)), to assessment tools (mostly experimental at present) and solutions.
+MQB brings together an [online book](https://mulquabio.github.io/MQB/intro.html), teaching materials, and tools for assessment and feedback. Start with the [MQB book repository](https://github.com/MulQuaBio/MQB) if you want to read or contribute to the course materials.
 
-If in doubt about where to start, or which one to contribute to, in most likelihood you are looking for the main [MQB book repo](https://github.com/MulQuaBio/MQB). 
+## Repositories
 
-You may also want to take a peek at this org's [Discussions](https://github.com/orgs/MulQuaBio/discussions).
+| Repository | What it contains | Access |
+| --- | --- | --- |
+| [MQB](https://github.com/MulQuaBio/MQB) | Source for the online book, notebooks, data, and rubrics | Public |
+| [MQB-TA](https://github.com/MulQuaBio/MQB-TA) | Assessment evidence collection and feedback tools | Private |
+| [MQB-Sols](https://github.com/MulQuaBio/MQB-Sols) | Solutions to MQB exercises | Private |
+| [Automarker](https://github.com/MulQuaBio/Automarker) | Earlier automarking tool | Public |
+| [MQB_AI_Assessor](https://github.com/MulQuaBio/MQB_AI_Assessor) | AI assessment prototype from the 2025 hackathon | Private |
+| [MQB-project](https://github.com/MulQuaBio/MQB-project) | Cross-repository decisions and meeting records | Private |
+
+Private repositories are accessible to authorised organisation members. The chatbot transfer is paused pending credential review.
+
+For questions and ideas about the book, use [MQB issues](https://github.com/MulQuaBio/MQB/issues) or the organisation's [Discussions](https://github.com/orgs/MulQuaBio/discussions).
