@@ -11,7 +11,6 @@ MQB brings together an [online book](https://mulquabio.github.io/MQB/intro.html)
 | [MQB-Sols](https://github.com/MulQuaBio/MQB-Sols) | Solutions to MQB exercises | Private |
 | [Automarker](https://github.com/MulQuaBio/Automarker) | Earlier automarking tool | Public |
 | [MQB_AI_Assessor](https://github.com/MulQuaBio/MQB_AI_Assessor) | AI assessment prototype from the 2025 hackathon | Private |
-| [MQB-Maths4Biologists](https://github.com/MulQuaBio/MQB-Maths4Biologists) | Maths for Biologists teaching materials; migration in progress | Private |
 | [MQB-project](https://github.com/MulQuaBio/MQB-project) | Cross-repository decisions and meeting records | Private |
 
 Private repositories are accessible to authorised organisation members. The chatbot repository is being prepared for migration.
